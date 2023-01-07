@@ -1,3 +1,14 @@
+# 学習メモ
+
+<https://www.udemy.com/course/t3-stack-nextjs-trpc-web/>
+<https://github.com/GomaGoma676/t3stack-todo-app>
+
+- node.js: 18.12.1
+
+→ 19系はnext-auth(4.18.7)が対応していなかった
+
+---
+
 # Create T3 App
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
